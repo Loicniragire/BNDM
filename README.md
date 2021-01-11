@@ -24,3 +24,6 @@ Generally speaking, string pattern matching algorithms can be categorized into t
 ## BNDM
 - **_bit-parallelism_** is used to perform the factor search.
 - Uses less memory compared to **_Backward Dawg Matching_** which uses **_Suffix automaton_** for factor searching.
+
+#### Reference List
+- Navarro, G., &amp; Raffinot, M. (2014). Flexible pattern matching in strings: Practical on-line search algorithms for texts and biological sequences (pp. 27-38). Cambridge: Cambridge University Press.
